@@ -1,0 +1,12 @@
+
+config.php
+.env
+
+
+pizzadb.sql
+
+
+# /uploads/
+# /logs/
+
+# /node_modules/

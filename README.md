@@ -11,5 +11,5 @@
 ## Требования:
 - PHP 7+
 - MySQL
-- Apache (встроен в OpenServer)
+
 
